@@ -1,2 +1,2 @@
 # Spotify-Clone
-This is clone of Spotify Music Website.
+This is a clone of Spotify Music Website.
